@@ -13,3 +13,5 @@ const numbers = [1, 2, 3, 4, 5];
 // Calculate and display the sum
 const arraySum = sumArray(numbers);
 console.log(`The sum of the array elements is ${arraySum}.`);
+
+/** Comenntar **/
