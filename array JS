@@ -15,3 +15,39 @@ const arraySum = sumArray(numbers);
 console.log(`The sum of the array elements is ${arraySum}.`);
 
 /** Comenn **/
+
+// Function to calculate the sum of an array
+function sumArray(arr) {
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i]; // sum = sum + arr
+  }
+  return sum;
+}
+
+// Testing the sumArray function
+const numbers = [1, 2, 3, 4, 5];
+
+// Calculate and display the sum
+const arraySum = sumArray(numbers);
+console.log(`The sum of the array elements is ${arraySum}.`);
+
+/** Comenn **/
+
+// Function to calculate the sum of an array
+function sumArray(arr) {
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i]; // sum = sum + arr
+  }
+  return sum;
+}
+
+// Testing the sumArray function
+const numbers = [1, 2, 3, 4, 5];
+
+// Calculate and display the sum
+const arraySum = sumArray(numbers);
+console.log(`The sum of the array elements is ${arraySum}.`);
+
+/** Comenn **/
