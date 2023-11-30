@@ -23,3 +23,7 @@ const num2 = 10;
 // Calculate and display the result
 const result = add(num1, num2);
 console.log(`The result of adding ${num1} and ${num2} is ${result}.`);
+
+// Calculate and display the result
+const result = add(num1, num2);
+console.log(`The result of adding ${num1} and ${num2} is ${result}.`);
