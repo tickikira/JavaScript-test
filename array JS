@@ -61,3 +61,6 @@ console.log(`The sum of the array elements is ${arraySum}.`);
 const arraySum = sumArray(numbers);
 console.log(`The sum of the array elements is ${arraySum}.`);
 
+// Calculate and display the sum
+const arraySum = sumArray(numbers);
+console.log(`The sum of the array elements is ${arraySum}.`);
