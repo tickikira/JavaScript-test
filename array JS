@@ -81,4 +81,14 @@ const arraySum = sumArray(numbers);
 console.log(`The sum of the array elements is ${arraySum}.`);
 
 
+// Function to calculate the sum of an array
+function sumArray(arr) {
+  let sum = 0;
+  for (let i = 0; i < arr.length; i++) {
+    sum += arr[i]; // sum = sum + arr
+  }
+  return sum;
+}
+
+
 
