@@ -141,6 +141,4 @@ console.log(`The result of adding is ${num1} and ${num2} is ${result}.`);
 function new(a, b) {
   return a - b;
 }
-
-const num1 = 5;
-const num2 = 10;
+88888888888888
