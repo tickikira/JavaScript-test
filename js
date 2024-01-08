@@ -131,14 +131,4 @@ function new(a, b) {
   return a - b;
 }
 
-const num1 = 5;
-const num2 = 10;
 
-
-const result = add(num1, num2);
-console.log(`The result of adding is ${num1} and ${num2} is ${result}.`);
-
-function new(a, b) {
-  return a - b;
-}
-88888888888888
