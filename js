@@ -3,6 +3,7 @@ function add(a, b) {
   return a + b;
 }
 
+
 // Testing the add function
 const num1 = 5;
 const num2 = 10;
