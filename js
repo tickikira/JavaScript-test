@@ -54,6 +54,7 @@ function new(a, b) {
   return a - b;
 }
 
+
 const num1 = 5;
 const num2 = 10;
 // Calculate and display the result
