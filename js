@@ -235,3 +235,10 @@ const num1 = 5;
 const num2 = 10;
 const num2 = 10;
 
+// Testing the add function
+const num1 = 5;
+const num2 = 10;
+// Calculate and display the result
+const result = add(num1, num2);
+console.log(`The result of adding is ${num1} and ${num2} is ${result}.`);
+
