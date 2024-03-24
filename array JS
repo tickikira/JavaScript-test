@@ -298,8 +298,6 @@ function sumArray(arr) {
   }
   return sum;
 }
-
-
 ////////******************///
 ////////******************///
 function sumArray(arr) {
