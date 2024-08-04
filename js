@@ -294,3 +294,13 @@ const num2 = 10;
 
 1112 /// delete
 
+1112 /// delete
+
+console.log(`The result of adding is ${num1} and ${num2} is ${result}.`);
+
+const num1 = 5;
+const num2 = 10;
+const num2 = 10;
+
+1112 /// delete
+
